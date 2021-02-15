@@ -8,37 +8,53 @@ h1{
   display: block;
 }
 
-.container {
+.box {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 img{
-  max-width: 100%;
+  max-width: 110%;
 }
 
 .image{
-  flex-basis: 40%;
+  flex-basis: 45%;
 }
 
 .text{
-  font-size: 20px;
-  padding-left: 20px;
+  font-size: 18px;
+  padding-left: 18px;
 }
 h2{
-  text-align: center;
+  text-align: justify;
+  font-style: oblique;
+  font-family: sans-serif;
+  display: ruby-base;
 }
 
-h3{}
+h3{
+  text-decoration: lawngreen;
+  font-weight: normal;
 
-h4{}
 
-p{}
+}
 
-ol{}
+h4{
 
-ul{}
+}
+
+p{ font-family: serif;
+
+}
+
+ol{
+
+}
+
+ul{
+
+}
 
 
   
