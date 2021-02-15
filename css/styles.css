@@ -15,7 +15,7 @@ h1{
 }
 
 img{
-  max-width: 110%;
+  max-width: 100%;
 }
 
 .image{
@@ -60,6 +60,10 @@ ul{
 
 a link{
   color: greenyellow;
+}
+
+body{
+  background-color: lavenderblush;
 }
 
 
