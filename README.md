@@ -1,6 +1,6 @@
 # Landing-page
 This is my website that has been written in html to showcase the landing page of my web portfolio, 2021
- By Kevin Bett
+By Kevin Bett
 ## Description
 *This app is used to showcase the landing page to my web portfolio. It uses html code and has a lot of elements such as images.
 ## Setup/Installation Requirements
