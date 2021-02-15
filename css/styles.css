@@ -26,6 +26,7 @@ img{
   font-size: 18px;
   padding-left: 18px;
 }
+
 h2{
   text-align: justify;
   font-style: oblique;
@@ -58,8 +59,8 @@ ul{
   background-color: lightgrey;
 }
 
-a link{
-  color: greenyellow;
+a{
+  color: cornflowerblue;
 }
 
 body{
